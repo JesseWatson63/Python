@@ -26,3 +26,10 @@ print(variety)
 print(shape)
 print(brand)
 f.close()
+
+print("\nShelving lists.")
+s = shelve.open("pickles.dat")
+s["variety"] = ["sweet", "hot", "dill"]
+s["shape"] = ["whole", "spear", "chip"]
+s["brand"] = ["Claussen", "Heinz", "Vlassic"]
+s.sync()

@@ -1,0 +1,20 @@
+An Episode You Cna't Refuse
+On the Run With a Mammal
+Let's say turn state's evidence and need to "get on the lam. " If you wait /too long, what will happen?
+you'll end up on the sheep
+you'll end up on the cow
+you'll end up on the goat
+you'll end up on the emu
+1
+A lamb is just a young sheep
+
+"""
+<category>
+<question>
+<answer 1>
+<answer 2>
+<answer 3>
+<answer 4>
+<correct answer>
+<explanation>
+"""
